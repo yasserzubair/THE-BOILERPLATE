@@ -1,7 +1,7 @@
 # cra-boilerplate
 
 
-This project is an [Create React App - v2.1.1](https://facebook.github.io/create-react-app/) boilerplate
+This project is an [Create React App - v3.2.0](https://facebook.github.io/create-react-app/) boilerplate
 with integration of Redux, React Router, Redux thunk, Reactstrap(Bootstrap v4) & Redux Forms
 
 
